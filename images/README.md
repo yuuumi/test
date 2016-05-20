@@ -1,3 +1,1 @@
-
-https://github.com/yuuumi/test/blob/master/images/panda.png
-
+![パンダ](https://github.com/yuuumi/test/blob/master/images/panda.png)
